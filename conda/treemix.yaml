@@ -1,0 +1,7 @@
+name: treemix_env
+channels:
+          - conda-forge
+          - defaults
+          - bioconda
+dependencies:
+          - treemix=1.13

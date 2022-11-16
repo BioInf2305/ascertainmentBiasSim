@@ -1,0 +1,8 @@
+name: stacks_env
+channels:
+          - conda-forge
+          - defaults
+          - bioconda
+dependencies:
+          - stacks=2.61
+          - pigz=2.6
